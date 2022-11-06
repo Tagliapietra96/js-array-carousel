@@ -17,6 +17,11 @@ button{
     z-index: 5;
 }
 
+.banner-container{
+    height: 100%;
+    width: 100%;
+}
+
 .my-img{
     position: absolute;
     left: 0;
@@ -26,6 +31,11 @@ button{
 
 .my-img.active{
     opacity: 1;
+}
+
+#my-cards-container{
+    height: 100%;
+    width: 100%;
 }
 
 #scroll-container{
